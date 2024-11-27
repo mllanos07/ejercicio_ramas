@@ -10,3 +10,6 @@ Esto es el texto de ejemplo numero 3.
 
 ### feature login
 Aqui se documenta la feature de login
+
+### dashboard feature
+Aqui se documenta dashbaord feature.
